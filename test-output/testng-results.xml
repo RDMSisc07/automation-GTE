@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="13" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1689" started-at="2023-05-17T18:12:36Z" finished-at="2023-05-17T18:12:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1689" started-at="2023-05-17T18:12:36Z" finished-at="2023-05-17T18:12:37Z">
+      <class name="EjercicioEntrevista.AgregaProductos">
+        <test-method status="PASS" signature="agregarArticulos()[pri:0, instance:EjercicioEntrevista.AgregaProductos@3108bc]" name="agregarArticulos" duration-ms="272" started-at="2023-05-17T18:12:36Z" finished-at="2023-05-17T18:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- agregarArticulos -->
+      </class> <!-- EjercicioEntrevista.AgregaProductos -->
+      <class name="EjercicioEntrevista.LogInPage">
+        <test-method status="PASS" signature="instanciaChrome()[pri:0, instance:EjercicioEntrevista.LogInPage@13a5fe33]" name="instanciaChrome" is-config="true" duration-ms="4706" started-at="2023-05-17T18:12:31Z" finished-at="2023-05-17T18:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanciaChrome -->
+        <test-method status="PASS" signature="login()[pri:0, instance:EjercicioEntrevista.LogInPage@13a5fe33]" name="login" duration-ms="521" started-at="2023-05-17T18:12:36Z" finished-at="2023-05-17T18:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="cierraChrome()[pri:0, instance:EjercicioEntrevista.LogInPage@13a5fe33]" name="cierraChrome" is-config="true" duration-ms="0" started-at="2023-05-17T18:12:37Z" finished-at="2023-05-17T18:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cierraChrome -->
+      </class> <!-- EjercicioEntrevista.LogInPage -->
+      <class name="EjercicioEntrevista.CompraTerminada">
+        <test-method status="PASS" signature="compraConcluida()[pri:0, instance:EjercicioEntrevista.CompraTerminada@63753b6d]" name="compraConcluida" duration-ms="83" started-at="2023-05-17T18:12:37Z" finished-at="2023-05-17T18:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compraConcluida -->
+      </class> <!-- EjercicioEntrevista.CompraTerminada -->
+      <class name="EjercicioEntrevista.Comprar">
+        <test-method status="PASS" signature="aplicarCompra()[pri:0, instance:EjercicioEntrevista.Comprar@5f9d02cb]" name="aplicarCompra" duration-ms="558" started-at="2023-05-17T18:12:37Z" finished-at="2023-05-17T18:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aplicarCompra -->
+      </class> <!-- EjercicioEntrevista.Comprar -->
+      <class name="EjercicioEntrevista.ValidaArticulosCarrito">
+        <test-method status="PASS" signature="carritoCompras()[pri:0, instance:EjercicioEntrevista.ValidaArticulosCarrito@370736d9]" name="carritoCompras" duration-ms="202" started-at="2023-05-17T18:12:36Z" finished-at="2023-05-17T18:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carritoCompras -->
+      </class> <!-- EjercicioEntrevista.ValidaArticulosCarrito -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
